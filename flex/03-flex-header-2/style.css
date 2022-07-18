@@ -45,6 +45,9 @@ button {
   background: rebeccapurple;
   color: white;
   padding: 8px 24px;
+  height: 56px;
+  width: 150px;
+  align-self: center;
 }
 
 a {
